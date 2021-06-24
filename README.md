@@ -1,3 +1,3 @@
-# juanotero.github.io
+# JuanOteroOK.github.io
 
 PORTFOLIO
