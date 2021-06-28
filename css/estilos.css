@@ -221,6 +221,9 @@ footer{
 .brand+p{
     font-weight: 500;
 }
+.cont-expert i{
+    font-size: 25px;
+}
 .social-media{
     width: 50%;
     display: flex;
